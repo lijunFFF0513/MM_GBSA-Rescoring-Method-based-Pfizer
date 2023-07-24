@@ -17,3 +17,5 @@ This calculation protocol is based on the following two literature：
 1. To run this script you need a MacroModel license.
 2. At present, this script only supports a single ligand, and will be optimized into a multiligand version in the future.
 3. The problem of excessive E_ptn values in this calculation protocol still needs to be solved.
+
+If you have any questions, you can contact [ j305631@outlook.com ]
