@@ -12,3 +12,8 @@ This calculation protocol is based on the following two literature：
 ![image](https://github.com/lijunFFF0513/MM_GBSA-Rescoring-Method-based-Pfizer/assets/109940009/2d4c4779-7ec0-4b91-8cb7-5e1e4d716eb9)![image](https://github.com/lijunFFF0513/MM_GBSA-Rescoring-Method-based-Pfizer/assets/109940009/94981659-4b90-406e-bfea-1d31e1f3ba4c)![image](https://github.com/lijunFFF0513/MM_GBSA-Rescoring-Method-based-Pfizer/assets/109940009/461a52b4-b972-430e-8010-ff936c8c01da)
    and 'Substructure' you can define by yourself. Finally, you need to 'write' these settings to a configuration folder, and finally get .com, .mae, .sbc files, and copy them to the .py file directory.
 5. Enter the command "python MM-GBSA_Rescoring.py" in the terminal to run the script. The results are list in the MM-GBSA_recoring.txt
+
+# ATTENTION！
+1. To run this script you need a MacroModel license.
+2. At present, this script only supports a single ligand, and will be optimized into a multiligand version in the future.
+3. The problem of excessive E_ptn values in this calculation protocol still needs to be solved.
